@@ -11,6 +11,10 @@ F1-Score is used instead of accuracy to train better models because the cases th
 ---
 The dataset used is from https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 
+## Viewing the results
+
+The results of the study are stored on the HTML file in the root folder. If you don't want to rerun the code, then check it out!
+
 ## Running Locally
 
 To run the app locally and to modify it, first clone the repo:
